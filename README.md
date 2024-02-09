@@ -27,7 +27,7 @@ Consider incorporating contextual information like economic data, social policie
 ## What We Are Using 
 Data Sources
 * Kaggle 
-* ?? research articles
+* Reference articles
 
 Languages
 * Python (Matplotlib, Pandas)
