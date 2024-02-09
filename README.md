@@ -6,6 +6,8 @@ This is Project 1 for Group 7 @ the U of M Data Visualization Bootcamp.
 
 Presentation deck (Google slides): https://docs.google.com/presentation/d/e/2PACX-1vQgRQA3T-1MgghDPOhkH9GK0XxK9N8jFNISL7-iP6y_gPAOK3XIuRIDjrCxgzRbqy5qG8msGbMnV1fe/pub?start=false&loop=false&delayms=3000
 
+New link: https://docs.google.com/presentation/d/1X1nYIf1Nj5YNCgHWjrRg1SkMbKaOKO6lWD7IPjjwdfw/edit?usp=sharing
+
 ## Our Project Goal
 This project aims to gain a comprehensive understanding of Japan's birth demographics over the past century (1899-2022) by analyzing collective data, with a specific focus on:
 1. Total Fertility Rate (TFR):
