@@ -31,6 +31,6 @@ Data Sources
 
 Languages
 * Python (Matplotlib, Pandas)
-
+## Additional Considerations and Limitations:
 Ex-Nuptial Births in Japan: 1947 - 2022
 Note: Between the years 1947 and 2000, the data set reports ex-nuptial births every five years. From 2000 to 2022, it reports ex-nuptial births every year.
