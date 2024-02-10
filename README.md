@@ -34,3 +34,6 @@ Languages
 ## Additional Considerations and Limitations:
 Ex-Nuptial Births in Japan: 1947 - 2022
 Note: Between the years 1947 and 2000, the data set reports ex-nuptial births every five years. From 2000 to 2022, it reports ex-nuptial births every year.
+
+## References:
+Drixler, Fabian F. “Hidden in Plain Sight: Stillbirths and Infanticides in Imperial Japan.” The Journal of Economic History, vol. 76, no. 3, 2016, pp. 651–96. JSTOR, http://www.jstor.org/stable/43917379. Accessed 10 Feb. 2024.
