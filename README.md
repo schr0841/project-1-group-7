@@ -11,7 +11,7 @@ This project aims to gain a comprehensive understanding of Japan's birth demogra
 1. Total Fertility Rate (TFR):
 •	Goal: Chart and analyze the TFR over 100 years, identifying periods of highs, lows, and fluctuations.
 •	Expected Outcome: Understand the historical context and potential factors driving changes in TFR, such as economic conditions, social norms, and government policies.
-2. Impact of Major Events:
+2. Impact of Major Events on Stillbirths:
 •	Goal: Investigate how major events, particularly World War II (1944-1946, despite data limitations), impacted fertility rates, stillbirth rates, and other key birth indicators.
 •	Expected Outcome: Identify correlations between historical events and birth trends, providing valuable insights into societal responses to crises.
 3. Rise of Out-of-Wedlock Births (ex-nuptial):
