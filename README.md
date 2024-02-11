@@ -26,12 +26,24 @@ Consider incorporating contextual information like economic data, social policie
 
 ## What We Are Using 
 Data Sources
-* Kaggle 
+* Kaggle: https://www.kaggle.com/datasets/webdevbadger/japan-birth-statistics 
 * List reference articles
 
 Languages
 * Python (Matplotlib, Pandas)
+
+## Analysis
+
+Male vs Female Birth Rates: 
+Male vs female ratio is farily consistent at 51% male / 49% female.
+![image](https://github.com/schr0841/project-1-group-7/assets/153476236/efb39124-c6f4-4dd6-bf97-9404bc31baf2)
+![image](https://github.com/schr0841/project-1-group-7/assets/153476236/4449bcd9-788b-4e5a-a62b-7231f4b719d8)
+
+
+
 ## Additional Considerations and Limitations
+Some data is missing between the years 1944-1946 due to records lost during World War II. 
+
 Ex-Nuptial Births in Japan: 1947 - 2022
 Note: Between the years 1947 and 2000, the data set reports ex-nuptial births every five years. From 2000 to 2022, it reports ex-nuptial births every year.
 
