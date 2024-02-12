@@ -15,7 +15,7 @@ This project aims to gain a comprehensive understanding of Japan's birth demogra
 •	Goal: Investigate how major events, particularly World War II (1944-1946, despite data limitations), impacted fertility rates, stillbirth rates, and other key birth indicators.
 •	Expected Outcome: Identify correlations between historical events and birth trends, providing valuable insights into societal responses to crises.
 3. Rise of Out-of-Wedlock Births (ex-nuptial):
-•	Goal: Analyze the trend in the number of children born out of wedlock over the past 50 years, considering potential contributing factors.
+•	Goal: Analyze the trend in the number of children born out of wedlock over the past 70+ years, considering potential contributing factors.
 •	Expected Outcome: Understand the evolving cultural and legal landscape surrounding marriage and childbirth in Japan.
 4. Male vs. Female Birth Rates:
 •	Goal: Investigate any trends in the disparity between male and female birth rates, considering possible biological and social influences.
