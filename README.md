@@ -39,7 +39,8 @@ Male vs female ratio is farily consistent at 51% male / 49% female.
 ![image](https://github.com/schr0841/project-1-group-7/assets/153476236/efb39124-c6f4-4dd6-bf97-9404bc31baf2)
 ![image](https://github.com/schr0841/project-1-group-7/assets/153476236/4449bcd9-788b-4e5a-a62b-7231f4b719d8)
 
-
+Ex-Nuptial Births, 1947-2022
+At first glance, it appears that ex-nuptial births were at a relatively high point in the immediate post-war years, compared with subsequent decades. 
 
 ## Additional Considerations and Limitations
 Some data is missing between the years 1944-1946 due to records lost during World War II. 
