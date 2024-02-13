@@ -34,6 +34,15 @@ Languages
 
 ## Analysis
 
+
+Fertility Rate over the past 100 years:
+
+![total fertility rate](https://github.com/schr0841/project-1-group-7/assets/12236689/44395ec0-6474-489a-8659-df773fc6cd57)
+
+Infant death rate as proxy for fertility rate:
+![infant deaths](https://github.com/schr0841/project-1-group-7/assets/12236689/90c6c9db-dc2d-431f-9260-601280d53b49)
+
+
 Male vs Female Birth Rates: 
 Male vs female ratio is farily consistent at 51% male / 49% female.
 ![image](https://github.com/schr0841/project-1-group-7/assets/153476236/efb39124-c6f4-4dd6-bf97-9404bc31baf2)
@@ -58,3 +67,7 @@ Note: Between the years 1947 and 2000, the data set reports ex-nuptial births ev
 Drixler, Fabian F. “Hidden in Plain Sight: Stillbirths and Infanticides in Imperial Japan.” The Journal of Economic History, vol. 76, no. 3, 2016, pp. 651–96. JSTOR, http://www.jstor.org/stable/43917379. Accessed 10 Feb. 2024.
 
 Hashimoto, Masanori. “Economics of Postwar Fertility in Japan: Differentials and Trends.” Journal of Political Economy, vol. 82, no. 2, 1974, pp. S170–94. JSTOR, http://www.jstor.org/stable/1829999. Accessed 10 Feb. 2024.
+
+Kanae Kaku (1975) Increased induced abortion rate in 1966, an aspect of a Japanese folk superstition, Annals of Human Biology, 2:2, 111-115, DOI: 10.1080/03014467500000651
+
+Yamada, H. Superstition effects versus cohort effects: is it bad luck to be born in the year of the fire horse in Japan?. Rev Econ Household 11, 259–283 (2013). https://doi.org/10.1007/s11150-012-9162-9
