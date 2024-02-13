@@ -64,12 +64,13 @@ Gender ratio is fairly consistent at 51% male / 49% female. While there may be a
 
 Ex-Nuptial Births, 1947-2022
 At first glance, it appears that ex-nuptial births were at a relatively high point in the immediate post-war years, compared with subsequent decades. 
-#INSERT IMAGE: ExNuptialBirthsYear 
+![ExNuptialBirthsYear](https://github.com/schr0841/project-1-group-7/assets/151464511/0cfa6b36-de79-4800-9a79-4a101e7aa07f)
+
 When comparing Ex-Nuptial Births with Total Live Births by year, however, we see that the high point in ex-nuptial births corresponds with a similar high point in the total number of live births. The peak in ex-nuptial births may not necessarily be unusual but rather in-step with the high overall births. 
-![image](https://github.com/schr0841/project-1-group-7/assets/_______________________________________________).
-![image](https://github.com/schr0841/project-1-group-7/assets/_______________________________________________).
+![TotalBirthsExNuptialBirths](https://github.com/schr0841/project-1-group-7/assets/151464511/e2ca5fa2-da89-406b-858a-89342c49345a)
+
 By plotting ex-nuptial births as a percentage over total live births over time, we see that ex-nuptial births approached 4% of total live births. From the early 1950s through 2022, ex-nuptial births as a percentage of total live births has remained close to 2%. Whether a near-4% rate is significant -- related to something other than random chance -- is something we can't determine using our current statistical skills. 
-![image](https://github.com/schr0841/project-1-group-7/assets/_______________________________________________).
+![ExNuptPercent](https://github.com/schr0841/project-1-group-7/assets/151464511/440b7eb2-5583-47df-8a76-5ca425207913)
 
 ## Additional Considerations and Limitations
 Some data is missing between the years 1944-1946 due to records lost during World War II. 
