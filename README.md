@@ -44,8 +44,8 @@ Infant death rate as proxy for fertility rate:
 ![infant deaths](https://github.com/schr0841/project-1-group-7/assets/12236689/90c6c9db-dc2d-431f-9260-601280d53b49)
 
 
-Male vs Female Birth Rates: 
-Male vs female ratio is farily consistent at 51% male / 49% female.
+Gender Birth Rates: 
+Gender ratio is fairly consistent at 51% male / 49% female. While there may be a higher ratio of male births in Japan, the difference is fairly small and similar to what is observed in overall human population.
 ![image](https://github.com/schr0841/project-1-group-7/assets/153476236/efb39124-c6f4-4dd6-bf97-9404bc31baf2)
 ![image](https://github.com/schr0841/project-1-group-7/assets/153476236/4449bcd9-788b-4e5a-a62b-7231f4b719d8)
 
