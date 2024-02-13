@@ -29,7 +29,7 @@ Data Sources
 * Kaggle: https://www.kaggle.com/datasets/webdevbadger/japan-birth-statistics 
 
 Languages
-* Python (Matplotlib, Pandas)
+* Python (Matplotlib, Pandas, Seaborn)
 
 ## Analysis
 
