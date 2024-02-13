@@ -48,10 +48,11 @@ As we can see, there is a sharp decrease in the infant death rate in both 1906 a
 
 The Fire Horse is the 43rd combination of the sexagenary cycle, and it occurred in both 1906 and 1966. It will happen again in 2026. According to superstition, women born during the year of the Fire Horse would have bad omens and would not be suitable for marriage. As a result, some couples in Japan chose to not have children in 1906 and 1966.
 
+### 2. Stillbirths:
 
 <img width="1470" alt="Screenshot 2024-02-10 at 12 25 52 PM" src="https://github.com/schr0841/project-1-group-7/assets/151413928/c3d692fc-99bc-4d73-8763-2682d1794968">
 
-### 2. A large number of still births in the early 1900s were possibly due to abortions and infanticide being recorded as stillborn, this prompted regions in Japan to have an officer appear during a birth. It looks like larger numbers of stillbirths were recorded after WWII ended in 1945, perhaps reflecting societal responses to crises.
+A large number of still births in the early 1900s were possibly due to abortions and infanticide being recorded as stillborn, this prompted regions in Japan to have an officer appear during a birth. It looks like larger numbers of stillbirths were recorded after WWII ended in 1945, perhaps reflecting societal responses to crises.
 
 <img width="751" alt="Screenshot 2024-02-10 at 12 25 29 PM" src="https://github.com/schr0841/project-1-group-7/assets/151413928/4c548832-4f57-4c0d-9042-acd75635dbbf">
 
@@ -62,7 +63,7 @@ Gender ratio is fairly consistent at 51% male / 49% female. While there may be a
 ![image](https://github.com/schr0841/project-1-group-7/assets/153476236/efb39124-c6f4-4dd6-bf97-9404bc31baf2)
 ![image](https://github.com/schr0841/project-1-group-7/assets/153476236/4449bcd9-788b-4e5a-a62b-7231f4b719d8)
 
-Ex-Nuptial Births, 1947-2022
+### 3.Ex-Nuptial Births, 1947-2022
 At first glance, it appears that ex-nuptial births were at a relatively high point in the immediate post-war years, compared with subsequent decades. 
 ![ExNuptialBirthsYear](https://github.com/schr0841/project-1-group-7/assets/151464511/0cfa6b36-de79-4800-9a79-4a101e7aa07f)
 
