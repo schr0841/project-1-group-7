@@ -27,7 +27,6 @@ Consider incorporating contextual information like economic data, social policie
 ## What We Are Using 
 Data Sources
 * Kaggle: https://www.kaggle.com/datasets/webdevbadger/japan-birth-statistics 
-* List reference articles
 
 Languages
 * Python (Matplotlib, Pandas)
