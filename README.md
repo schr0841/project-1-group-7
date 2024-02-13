@@ -40,6 +40,7 @@ Fertility Rate over the past 100 years:
 ![total fertility rate](https://github.com/schr0841/project-1-group-7/assets/12236689/44395ec0-6474-489a-8659-df773fc6cd57)
 
 Infant death rate as proxy for fertility rate:
+
 ![infant deaths](https://github.com/schr0841/project-1-group-7/assets/12236689/90c6c9db-dc2d-431f-9260-601280d53b49)
 
 
