@@ -42,6 +42,13 @@ Infant death rate as proxy for fertility rate:
 
 ![infant deaths](https://github.com/schr0841/project-1-group-7/assets/12236689/90c6c9db-dc2d-431f-9260-601280d53b49)
 
+<img width="1470" alt="Screenshot 2024-02-10 at 12 25 52 PM" src="https://github.com/schr0841/project-1-group-7/assets/151413928/c3d692fc-99bc-4d73-8763-2682d1794968">
+
+A large number of still births in the early 1900s were possibly due to abortions and infanticide being recorded as stillborn, this prompted regions in Japan to have an officer appear during a birth. It looks like larger numbers of stillbirths were recorded after WWII ended in 1945, perhaps reflecting societal responses to crises.
+
+<img width="751" alt="Screenshot 2024-02-10 at 12 25 29 PM" src="https://github.com/schr0841/project-1-group-7/assets/151413928/4c548832-4f57-4c0d-9042-acd75635dbbf">
+
+Japan’s stillbirth rate has consistently gone down since the war possibly attributed to universal health care every woman gets, and the populace decreasing.
 
 Gender Birth Rates: 
 Gender ratio is fairly consistent at 51% male / 49% female. While there may be a higher ratio of male births in Japan, the difference is fairly small and similar to what is observed in overall human population.
