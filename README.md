@@ -38,9 +38,16 @@ Fertility Rate over the past 100 years:
 
 ![total fertility rate](https://github.com/schr0841/project-1-group-7/assets/12236689/44395ec0-6474-489a-8659-df773fc6cd57)
 
+We can plot the fertility rate vs year for 1947 to 2022 on a line plot in seaborn. We notice that the fertility rate has been generally decreasing, with a large sudden decrease that only affects the year 1966. Why did the fertility rate decrease so dramatically for just this year? Possible explanations could be war, famine, or a pandemic. 
+
 Infant death rate as proxy for fertility rate:
 
 ![infant deaths](https://github.com/schr0841/project-1-group-7/assets/12236689/90c6c9db-dc2d-431f-9260-601280d53b49)
+
+As we can see, there is a sharp decrease in the infant death rate in both 1906 and 1966. This leads us to speculate that there were fewer children being born in those years. According to our research, In 1966 Japan, there was a superstition that affected the number of births. This superstition is based on astrology. In Eastern astrology, each year is represented by a different animal, and the people born during the year take on some characteristics of that animal. 
+
+The Fire Horse is the 43rd combination of the sexagenary cycle, and it occurred in both 1906 and 1966. It will happen again in 2026. According to superstition, women born during the year of the Fire Horse would have bad omens and would not be suitable for marriage. As a result, some couples in Japan chose to not have children in 1906 and 1966.
+
 
 <img width="1470" alt="Screenshot 2024-02-10 at 12 25 52 PM" src="https://github.com/schr0841/project-1-group-7/assets/151413928/c3d692fc-99bc-4d73-8763-2682d1794968">
 
