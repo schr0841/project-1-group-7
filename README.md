@@ -70,6 +70,7 @@ By plotting ex-nuptial births as a percentage over total live births over time, 
 
 ### 4. Male vs Female Birth Rates: 
 Sex ratio is fairly consistent at 51% male / 49% female. While there may be a higher ratio of male births in Japan, the difference is fairly small and similar to what is observed in overall human population.
+
 ![image](https://github.com/schr0841/project-1-group-7/assets/153476236/efb39124-c6f4-4dd6-bf97-9404bc31baf2)
 ![image](https://github.com/schr0841/project-1-group-7/assets/153476236/4449bcd9-788b-4e5a-a62b-7231f4b719d8)
 
@@ -79,6 +80,14 @@ Some data is missing between the years 1944-1946 due to records lost during Worl
 
 Ex-Nuptial Births in Japan: 1947 - 2022
 Note: Between the years 1947 and 2000, the data set reports ex-nuptial births every five years. From 2000 to 2022, it reports ex-nuptial births every year.
+
+## Next Steps
+Compare by regions within Japan.
+
+Gather pre-1947 data on ex-nuptial births per year.
+
+Discover a statistical testing technique capable of determining whether changes seen in population subsets are meaningful or attributable to random chance.
+
 
 ## References
 Drixler, Fabian F. “Hidden in Plain Sight: Stillbirths and Infanticides in Imperial Japan.” The Journal of Economic History, vol. 76, no. 3, 2016, pp. 651–96. JSTOR, http://www.jstor.org/stable/43917379. Accessed 10 Feb. 2024.
